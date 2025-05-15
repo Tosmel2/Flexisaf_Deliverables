@@ -20,4 +20,4 @@ Run your program and confirm that **"Hello World"** is displayed in the console.
 ## Features
 
 - Hello World Output in Console  
-  ![Hello World Output on termina](screenshots/Hello-World.png)
+  ![Hello World Output on terminal](screenshot/Hello-World.png)
