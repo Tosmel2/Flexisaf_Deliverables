@@ -13,4 +13,4 @@ Write a Java program to create a class called "Book" with attributes for title, 
 ## Features
 
 - Add/Remove books from a collections Console  
-  ![Add/Remove books from a collections](screenshot/Book.png)
+  ![Add/Remove books from a collections](screenshot/Books.png)
