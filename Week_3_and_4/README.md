@@ -7,7 +7,9 @@ Variables, Operators, Expressions, Statement, blocks, control flow statements
 Creating classes, object instantiation, method and variable access, nested and inner class devlaration and instantiation, access control, enums
 
 ## Deliverables
-Create a program that displays days of the week using an enum to capture the days. Use a super and a sub class in your program.
+- Become familiar with creating variable/field and if else statement with Java
+
+- Create a program that displays days of the week using an enum to capture the days. Use a super and a sub class in your program.
 
 ### Resources
 
