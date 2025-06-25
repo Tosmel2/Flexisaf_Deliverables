@@ -7,7 +7,7 @@ The number classes, formatting number ouputs, static constants and methods in th
 Write a program that convert the Numbers to Strings and back to Numbers. Write a program that reverse a String. Example takes in "hello world" and return "dlrow olleh"
 
 ### Resources
-- [Implementing Inheritance](https://docs.oracle.com/javase/tutorial/java/data/index.html)
+- [Numbers and Strings](https://docs.oracle.com/javase/tutorial/java/data/index.html)
 
 
 ## Features
