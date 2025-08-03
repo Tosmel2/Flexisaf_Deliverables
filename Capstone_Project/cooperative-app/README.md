@@ -1,8 +1,6 @@
 # Cooperative App
 A console-based cooperative/thrift association management system built with Java, Spring Boot, and Maven 
-to manage the financial activities of a coopertaive/thrift association. This system will handle member accounts,
-contributions, withdrawals, and basic financial reporting, with specoific validation
-rules to ensure secure and responsible transactions.
+to manage the financial activities of a coopertaive/thrift association. This system will handle member accounts, contributions, withdrawals, and basic financial reporting, with specific validation rules to ensure secure and responsible transactions.
 
 ## Features
 - Member registration with email uniqueness validation
